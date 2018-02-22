@@ -1,0 +1,6 @@
+[submodule "Company3GR2"]
+	path = Company3GR2
+	url = http://arbutfs02:8080/tfs/Colombia/CO_COL/_git/CO_AXA_3GR2
+[submodule "3GR2_CORE"]
+	path = 3GR2_CORE
+	url = http://arbutfs02:8080/tfs/Colombia/CO_COL/_git/CO_AXA_3GR2_CORE
